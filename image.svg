@@ -26,6 +26,7 @@ h1 {
 }
       </style>
       <h1>Hello, world</h1>
+      <script>alert('ololo')</script>
     </div>
   </foreignObject>
 </svg>
